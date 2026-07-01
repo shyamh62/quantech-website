@@ -1,0 +1,9 @@
+title: QuanTech Consulting Ltd
+description: Professional Digital Transformation & AI Consulting Solutions
+theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
