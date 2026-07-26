@@ -10,9 +10,7 @@ Our services translate business problems into concrete AI use cases with clear o
 
 We develop advanced digital tools, including our AI-driven revenue recognition application designed to streamline automated financial reconciliation and compliance.
 
----
-
-## *Have a question? [Contact us today](/contact.md/)*
+*Have a question? [Contact us today](/contact.md/)*
 
 ---
 
