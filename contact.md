@@ -43,7 +43,7 @@ If you have any questions or would like to discuss a project, please reach out u
     status.textContent = "Sending...";
 
     try {
-      const response = await fetch(event.action, {
+      const response = await fetch(form.action, {
         method: form.method,
         body: data,
         headers: { 'Accept': 'application/json' }
