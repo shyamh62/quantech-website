@@ -5,9 +5,10 @@ layout: home
 
 <!-- ## Products & Services -->
 We specialise in professional IT consulting and AI readiness.
-Our services translate business problems into concrete AI use cases with clear outcomes and ROI.
-We develop advanced digital tools, including our AI-driven revenue recognition application designed to streamline automated financial reconciliation and compliance.
 
+Our services translate business problems into concrete AI use cases with clear outcomes and ROI.
+
+We develop advanced digital tools, including our AI-driven revenue recognition application designed to streamline automated financial reconciliation and compliance.
 
 ---
 
