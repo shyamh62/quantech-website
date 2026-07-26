@@ -10,7 +10,7 @@ We specialize in professional IT consulting and advanced digital tools, includin
 
 ## Contact Us
 <!-- We will replace this placeholder with a working form in the next step -->
-<form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST" style="max-width: 500px; margin-top: 20px;">
+<form action="https://formspree.io/f/xykrbqje" method="POST" style="max-width: 500px; margin-top: 20px;">
   <div style="margin-bottom: 15px;">
     <label for="name" style="display: block; font-weight: bold; margin-bottom: 5px;">Name</label>
     <input type="text" id="name" name="name" required style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;">
