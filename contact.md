@@ -6,7 +6,7 @@ permalink: /contact/
 
 If you have any questions or would like to discuss a project, please reach out using the form below.
 
-<form id="contact-form" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST" style="max-width: 500px; display: flex; flex-direction: column; gap: 15px;">
+<form id="contact-form" action="https://formspree.io/f/xykrbqje" method="POST" style="max-width: 500px; display: flex; flex-direction: column; gap: 15px;">
   
   <!-- Honeypot Spam Protection (Hidden from real users) -->
   <input type="text" name="_gotcha" style="display:none !important;" tabindex="-1" autocomplete="off">
