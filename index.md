@@ -12,7 +12,7 @@ We develop advanced digital tools, including our AI-driven revenue recognition a
 
 ---
 
-Have a question? [Contact us today](/contact/)
+## *Have a question? [Contact us today](/contact.md/)*
 
 ---
 
