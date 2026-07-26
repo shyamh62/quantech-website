@@ -25,6 +25,8 @@ We specialize in professional IT consulting and advanced digital tools, includin
     <label for="message" style="display:block; margin-bottom: 0.5rem; font-weight: bold;">Message</label>
     <textarea id="message" name="message" rows="5" required style="width: 100%; padding: 8px; box-sizing: border-box;"></textarea>
   </div>
+   <!-- Invisible Honeypot Field -->
+   <input type="text" name="_gotcha" style="display:none !important" tabindex="-1" autocomplete="off">
 
   <button type="submit" id="submit-btn" style="padding: 10px 20px; cursor: pointer;">Send Message</button>
   <p id="form-status" style="margin-top: 1rem; font-weight: bold;"></p>
