@@ -3,7 +3,7 @@ layout: home
 
 ---
 
-## Products & Services
+<!-- ## Products & Services -->
 We specialize in professional IT consulting and advanced digital tools, including our AI-driven revenue recognition application designed to streamline automated financial tracking and compliance.
 
 ---
