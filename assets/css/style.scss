@@ -1,28 +1,25 @@
 ---
 ---
-
-// 1. Override Minima Variables (Optional)
-$brand-color: #0056b3;       // Links and accent color
-$site-title-color: #1a1a1a;  // Main header text
-$background-color: #fcfcfc;  // Page background
-
-// 2. Import Minima Theme Defaults
 @import "minima";
 
-// 3. Custom CSS Rules
-.site-header {
-  border-top: 5px solid #0056b3; // Stylish top accent bar
+/* Custom Styles Go Below Here */
+
+/* Example: Change link colors */
+a {
+  color: #2a7ae2;
+  text-decoration: none;
 }
 
-button[type="submit"] {
+a:hover {
+  color: #111;
+  text-decoration: underline;
+}
+
+/* Example: Custom button style */
+.btn-primary {
   background-color: #0056b3;
   color: white;
-  border: none;
+  padding: 8px 16px;
   border-radius: 4px;
-  font-weight: bold;
-  transition: background-color 0.2s ease;
-}
-
-button[type="submit"]:hover {
-  background-color: #003d82;
+  text-decoration: none;
 }
