@@ -3,7 +3,8 @@ layout: home
 
 ---
 
-<!-- ## Products & Services -->
+## Welcome to Quantech Consulting
+
 We specialise in professional IT consulting and AI readiness.
 
 Our services translate business problems into concrete AI use cases with clear outcomes and ROI.
