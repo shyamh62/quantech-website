@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Products & Services
+title: Our Products
 permalink: /products/
 ---
 
@@ -9,8 +9,3 @@ Our automated revenue recognition platform simplifies enterprise accounting comp
 
 ---
 
-## Technical & AI Consulting Services
-We provide specialised consulting across AI architecture, enterprise readiness frameworks, and system integration.
-
-* **Enterprise AI Assessment:** Evaluating infrastructure and data pipelines for AI implementation.
-* **Custom Development:** Tailored software architectures and automated workflow solutions.
