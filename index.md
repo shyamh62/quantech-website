@@ -3,7 +3,9 @@ layout: home
 
 ---
 
-## Welcome to Quantech Consulting
+<!-- ## Welcome to Quantech Consulting -->
+
+Thank you for your interest in QuanTech Consulting.
 
 We specialise in professional IT consulting and AI readiness.
 
