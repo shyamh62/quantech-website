@@ -7,7 +7,7 @@ layout: home
 
 Thank you for your interest in QuanTech Consulting.
 
-We specialise in professional IT consulting and AI readiness. 
+We specialise in professional IT consulting and AI readiness.   
 AI is not a shortcut. It rests on sound business practices and data governance.
 We help businesses strengthen their digital posture to maximise the benefits of AI.
 An investment in AI should solve business problems with clear outcomes and ROI.
