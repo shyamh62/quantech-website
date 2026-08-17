@@ -34,7 +34,7 @@ At QuanTech Consulting, we partner with organisations to modernise infrastructur
     <div>
       <div class="service-icon">☁️</div>
       <h3>Cloud Architecture</h3>
-      <p>Scalable, secure cloud infrastructure design, migration strategies, and continuous optimization.</p>
+      <p>Scalable, secure cloud and hybrid infrastructure design, migration and DR strategies, and continuous optimization.</p>
     </div>
     <a href="{{ '/contact/' | relative_url }}" class="service-link">Learn more →</a>
   </div>
