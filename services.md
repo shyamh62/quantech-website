@@ -39,15 +39,6 @@ At QuanTech Consulting, we partner with organisations to align their operational
     <a href="{{ '/contact/' | relative_url }}" class="service-link">Learn more →</a>
   </div>
 
-  <div class="service-card">
-    <div>
-      <div class="service-icon">🛡️</div>
-      <h3>Cybersecurity & Compliance</h3>
-      <p>Comprehensive security assessments, threat modeling, and data governance for enterprise standards.</p>
-    </div>
-    <a href="{{ '/contact/' | relative_url }}" class="service-link">Learn more →</a>
-  </div>
-
 </div>
 
 ---
