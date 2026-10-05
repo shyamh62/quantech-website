@@ -6,7 +6,7 @@ If Obsidian asks for credentials or fails to connect, GitHub no longer accepts a
 
 #### Step 1: Generate a Token on GitHub
 
-1. Log into [GitHub.com](https://github.com/) and go to **Settings → Developer Settings → Personal access tokens → Tokens (classic)**.
+1. Log into [GitHub.com](https://github.com/) and click on profile pic -> go to **Settings → Developer Settings → Personal access tokens → Tokens (classic)**.
     
 2. Click **Generate new token (classic)**.
     

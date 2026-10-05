@@ -5,13 +5,13 @@ layout: home
 
 <!-- ## Welcome to Quantech Consulting -->
 
-Thank you for your interest in QuanTech Consulting.
+Thank you for your interest in QuanTech Consulting.  
 
-We specialise in strategic management and operational transformation. Sustainable growth does not come from adopting the latest technology—it rests on sound business practices, clear governance, and efficient execution.
+We specialise in strategic management and operational transformation. Sustainable growth does not come from adopting the latest technology—it rests on sound business practices, clear governance, and efficient execution.  
 
-We help established organisations align their operations with their long-term goals, ensuring that every investment drives measurable business outcomes and a clear ROI.
+We help established organisations align their operations with their long-term goals, ensuring that every investment drives measurable business outcomes and a clear ROI.  
 
-We also develop advanced digital tools to solve complex industry challenges, such as our revenue recognition application designed to streamline automated financial reconciliation and compliance in the FMCG sector.
+We also propose advanced digital tools to solve complex industry challenges, such as our revenue recognition application designed to streamline automated financial reconciliation and compliance in the FMCG sector.
 
 *Have a question? [Contact us today](/contact.md/)*
 
