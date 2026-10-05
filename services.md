@@ -4,18 +4,18 @@ title: Our Services
 permalink: /services/
 ---
 
-# Consulting & Technology Services
+# Strategic Management and Technology Services
 
-At QuanTech Consulting, we partner with organisations to modernise infrastructure, integrate artificial intelligence, and execute digital transformation initiatives.
+At QuanTech Consulting, we partner with organisations to align their operational and digital capabilities with their long-term business goals. We bridge the gap between high-level strategy and execution.
 
 <div class="services-grid">
 
   <div class="service-card">
     <div>
       <div class="service-icon">🤖</div>
-      <h3>The QT AI Blueprint </h3>
-      <p>We assess your core infrastructure and AI readiness, as well as your business strategy and operational bottlenecks.  <br>
-      Our output is an AI blueprint with functional specifications that ensures the engineering team knows exactly what to build and how you will measure its success. This includes concrete AI use cases prioritised on criticality and ROI, human + AI process maps, data sources and KPIs. 
+      <h3>The QT Strategic Blueprint </h3>
+      <p>We assess your core business strategy and operational bottlenecks alongside your existing infrastructure. <br>
+      Our output is a comprehensive execution blueprint that ensures your teams know exactly what to build and how to measure its success. This includes concrete digital initiatives prioritised by criticality and ROI, optimised process maps, and clear KPIs. 
       </p>
     </div>
     <a href="{{ '/contact/' | relative_url }}" class="service-link">Inquire about AI →</a>
@@ -24,8 +24,8 @@ At QuanTech Consulting, we partner with organisations to modernise infrastructur
   <div class="service-card">
     <div>
       <div class="service-icon">⚡</div>
-      <h3>Digital Transformation</h3>
-      <p>End-to-end audit and modernization of enterprise legacy systems, processes, and digital workflows.</p>
+      <h3>Operational Transformation</h3>
+      <p>End-to-end audit and modernisation of enterprise legacy systems, processes, and workflows to drive efficiency and growth.</p>
     </div>
     <a href="{{ '/contact/' | relative_url }}" class="service-link">Learn more →</a>
   </div>
@@ -33,8 +33,8 @@ At QuanTech Consulting, we partner with organisations to modernise infrastructur
   <div class="service-card">
     <div>
       <div class="service-icon">☁️</div>
-      <h3>Cloud Architecture</h3>
-      <p>Scalable, secure cloud and hybrid infrastructure design, migration and DR strategies, and continuous optimization.</p>
+      <h3>Infrastructure and Resilience</h3>
+      <p>Scalable, secure architecture design, risk management, and continuous optimisation to ensure your business can scale safely.</p>
     </div>
     <a href="{{ '/contact/' | relative_url }}" class="service-link">Learn more →</a>
   </div>
@@ -52,5 +52,5 @@ At QuanTech Consulting, we partner with organisations to modernise infrastructur
 
 ---
 
-### Ready to elevate your digital tech stack?
+### Ready to elevate your operational stack?
 [Get in touch with our team]({{ '/contact/' | relative_url }}) to discuss your project requirements or request an initial consultation.
