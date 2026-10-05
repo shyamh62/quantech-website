@@ -18,7 +18,7 @@ At QuanTech Consulting, we partner with organisations to align their operational
       Our output is a comprehensive execution blueprint that ensures your teams know exactly what to build and how to measure its success. This includes concrete digital initiatives prioritised by criticality and ROI, optimised process maps, and clear KPIs. 
       </p>
     </div>
-    <a href="{{ '/contact/' | relative_url }}" class="service-link">Inquire about AI →</a>
+    <a href="{{ '/contact/' | relative_url }}" class="service-link">Enquire about QT Strategic Blueprint →</a>
   </div>
 
   <div class="service-card">
