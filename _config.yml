@@ -2,6 +2,10 @@ title: QuanTech
 description: Futureproof your business through Strategic Execution
 theme: minima
 
+# Domain & URL settings
+url: "https://quantechmu.com"
+baseurl: ""
+
 # Build settings
 markdown: kramdown
 plugins:
