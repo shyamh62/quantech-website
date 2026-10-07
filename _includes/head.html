@@ -4,9 +4,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 
-  <!-- Favicon Links -->
-  <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+  <!-- Favicon Links (Absolute Root Paths) -->
+  <link rel="icon" type="image/png" href="/assets/images/favicon.png">
+  <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
 
   <!-- Main Site Stylesheet -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
