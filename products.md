@@ -31,4 +31,13 @@ We are an official reseller of a comprehensive digital platform that helps you:
 - Ensure Compliance: Generate reports aligned with 12+ global frameworks (including GRI, CSRD, and IFRS).
 - Manage Risk: Assess climate risks and track your supply chain with real-time analytics.
   
-If you are facing challenges to report on your ESG objectives : [let's talk.]({{ '/contact/' | relative_url }}) 
+If you are facing challenges to report on your ESG objectives: [let's talk.]({{ '/contact/' | relative_url }}) 
+
+---
+## Secure Verifiable Digital Credentials
+
+Qleanchain is a secure digital credential infrastructure that allows you to issue, verify, and manage certificates and CPD records with complete confidence.  
+Designed for professional bodies and training institutions, it replaces vulnerable paper and PDF certificates with tamper-evident, QR-enabled digital records.   
+Built with a privacy-first architecture, Qleanchain ensures compliance with data protection regulations while eliminating the administrative burden of manual verification.  
+
+If you are facing challenges to manage certificate verification: [let's talk.]({{ '/contact/' | relative_url }}) 
